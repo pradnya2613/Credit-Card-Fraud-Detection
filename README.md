@@ -12,6 +12,4 @@ Project Description:
 
 * Identify all possible features critical in the identification of card frauds.
 
-CSV File Drive link
 
-https://drive.google.com/drive/folders/1jCKBt74M0gwR2Uf9siStzoqvK2Y7ha_t?usp=sharing 
