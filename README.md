@@ -11,3 +11,7 @@ Project Description:
 * Explore other performance characteristics like accuracy, specificity, the area under the precision-recall curve, confusion matric etc. on the given dataset.
 
 * Identify all possible features critical in the identification of card frauds.
+
+CSV File Drive link
+
+https://drive.google.com/drive/folders/1jCKBt74M0gwR2Uf9siStzoqvK2Y7ha_t?usp=sharing 
